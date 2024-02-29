@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm"/>
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=flat-square" alt="Solidity"/>
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=fff&style=flat" alt="OZ"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat" alt="Fb"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat" alt="figma"/>
   <img src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=flat" alt="blender"/>
