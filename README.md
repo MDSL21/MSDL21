@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<img src="https://3git22bynexbjj65.public.blob.vercel-storage.com/Screenshot%202024-03-03%20at%2010.49.42%E2%80%AFPM-dYvxNdpBweiaGGhAi8UpMDitBiD0ab.png"/>
+
 <div display="flex">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm"/>
